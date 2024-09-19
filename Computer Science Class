@@ -1,0 +1,32 @@
+public class Main {
+    public static void main(String[] args) {
+
+        char letter = 'E';
+        String name = "Emma";
+        int age = 13;
+        boolean no = true;
+        float money = 123f;
+        System.out.println(letter);
+        System.out.println(name);
+        System.out.println(age);
+        System.out.println(no);
+        System.out.println(money);
+        System.out.println("liam is not ooga booga");
+        System.out.println("I am the real ooga booga");
+
+        int i;
+        for (i = 0; i < 501; i++) {
+            System.out.println("I have " + i + " dollars!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
+        }
+        int n = 10;
+        while (n <5){
+            System.out.print(n);
+            i++;
+        }
+
+
+
+
+
+    }
+}
