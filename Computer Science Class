@@ -22,7 +22,8 @@ public class Main {
             System.out.print(n);
             i++;
         }
-
+if (25 > 24) {
+  System.out.println("25 is greater then 24");
 
 
 
