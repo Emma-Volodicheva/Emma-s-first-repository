@@ -11,8 +11,7 @@ public class Main {
         System.out.println(age);
         System.out.println(no);
         System.out.println(money);
-        System.out.println("liam is not ooga booga");
-        System.out.println("I am the real ooga booga");
+
 
         int i;
         for (i = 0; i < 501; i++) {
